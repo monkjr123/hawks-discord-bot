@@ -1,0 +1,1 @@
+worker: python hawks_bot.py
